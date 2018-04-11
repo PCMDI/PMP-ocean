@@ -12,7 +12,11 @@ PJD  6 Apr 2018     - Update to run on durack1ml
 PJD 11 Apr 2018     - Updated to run on oceanonly and moved to git:PMP-ocean
                     - TODO: Sort out Hosoda 60S+ and 70N+ missing values
                     - TODO: Sort out WOA13v2 grid
+                    - TODO: Add in WOA05, EN4, Ishii datasets
+                    - TODO: Update all obs
+                    - TODO: For all depths, add depth mask to exclude continental halos
                     - TODO: Cleanup input data and sort out provenance beginning to end
+                    - TODO: Ascertain if profile issue is also apparent with salinity (rather than just to)
 
 @author: durack1
 """
